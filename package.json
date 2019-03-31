@@ -1,0 +1,16 @@
+{
+  "name": "parking-garage",
+  "version": "1.0.0",
+  "description": "Parking Garage Interview Design Challenge",
+  "main": "ParkingGarage.test.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha src/**/*.test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  },
+  "dependencies": {
+    "sinon": "^7.3.1"
+  }
+}
